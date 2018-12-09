@@ -1,0 +1,41 @@
+"Com.GMRIGHT.APP_doc_files_open<pythons_run!/gmight.org"
+"Com.GMRIGHT.APP_librery_files(x83)_slide_in_unknown_place_com.myapp.app"
+"Com.GMRIGHT.APP_start_MOb_installetion_for_java_c.11_ruby_all_files_includ_0000"
+"Com.GMRIGHT.APP_slede_base_gmright/8899"
+"Com.GMRIGHT.APP_write_v"
+"Com.GMRIGHT.App_write_c"
+"Com.GMRIGHT.App_write|network_connext:979998_netwrokShell---"
+"Com.GMRIGHT.App_write_sys_automaticL.88"
+"Com.GMRIGHT.App_write_sys_wrapindix.11.33.44"
+"Com.GMRIGHT.App_write_sys_price_leader"
+"Com.GMRIGHT.App_write_com.myapp.app,starting of installing being_activety_sourse_com.myapp.com"
+"Com.GMRIHT.App_write_com.systemini_in_comgmrightapp"
+"Com.GMRIGHT.App_write_disktap.gmright.disktap_vision|com.gmright.app|vision:6.0.9"
+"Com.GMRIGHT.App_write_this_vision_bot.gmright.bot_test_automaticL_and-pass_the_test_to_start_the_gmright_in_MOBILI.GMRIGHT.MOble"
+"Com.pach_57.0"
+"COM.GMRIGHT.APP"
+"Com.GMRIGHT.App_set_jet#87888.app"
+"Com.files.App"
+"Com.c.codec"
+"Com.admin.app"
+"Com.access.app_files(×83)"
+"Compact_files(×83)<6.0.9/N.9"
+"Com.gmright.app_start_with#0000_end_with#0000"
+"Com.GMRIGHT.app/open_6.0.9/organizations/burn_code_c.11_and_rebuild_hight_up_vision_beatiful/bot_8172/adroid_boxsallow_c.11_installetion_program_automatic"
+"Com.GMRIGHT.app/gmright/Microsoft/azure/GitHub/iOS/Hollywood.inc/Google.inc/Facebook.inc/amazon.inc/automatically: 217706/all_computer_program_in_(Hello worldwide)"
+"Com.GMRIGHT.app/authorization/automaticallog/automaticallapp/google play/google store/217706"
+"Com.GMRIGHT.app/allowbugs to run files(x83)/bakai/217706"
+[Com.gmright.app"c:/programmer_open_bag_and_run_with_it_nomatte_or if than_includ]
+"Detect the virus in [com.gmright.app]>as in "
+"Com.gmright.app_overwrite:c.11"
+"Com.gmright.app_overwote:sys.6.0.9"
+"Com.gmright.app_tags_files_owner_anyfiles_owner_of_all_creater_made_it_never_get_lost_hightsecurity_activety_dontlet_unonwer of this organization gmright to controlle this files_service"
+"Com.gmright.app_tag_and_ovefwrote_files"
+"Com.gmright.app_tag_bullet_and_go!"
+"Com.gmright.app_slidein_fielpass:inside_acer/7987788_code"c:\programmer"
+
+
+
+
+
+
