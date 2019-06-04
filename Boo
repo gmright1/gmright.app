@@ -1,0 +1,11 @@
+Brid =GMRIGHT 
+Brid =ad_GMRIGHT
+Brid =solution 
+Brid =ecologist /GMRIGHT 
+Super/menu
+Super/presidential 
+Super/milestone 
+Super/protections
+Super/organization 
+Super/HOME 
+Super/aides 
