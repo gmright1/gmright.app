@@ -1,0 +1,43 @@
+Gives error on 'futures' having a syntax error. Reverting to 2.5 is a workaround.
+
+    Step 21/32 : RUN pip3 install --upgrade cryptography
+     ---> Running in e26374e1ed69
+    Collecting cryptography
+      Downloading https://files.pythonhosted.org/packages/a3/5f/d5b7d21006e3c1a3919a3cc14e2a5ce1cee1c7ff635f09b31d91bdaff377/cryptography-2.6.tar.gz (492kB)                                                                                                                       
+      Installing build dependencies: started
+      Installing build dependencies: finished with status 'error'
+      Complete output from command /usr/bin/python3 /usr/local/lib/python3.6/dist-packages/pip install --ignore-installed --no-user --prefix /tmp/pip-build-env-q21p97gl/overlay --no-warn-script-location --no-binary :none: --only-binary :none: -i https://pypi.org/simple -- setuptools>=18.5 wheel "cffi>=1.8,!=1.11.3; python_implementation != 'PyPy'":
+      Traceback (most recent call last):
+        File "/usr/lib/python3.6/runpy.py", line 193, in _run_module_as_main
+          "__main__", mod_spec)
+        File "/usr/lib/python3.6/runpy.py", line 85, in _run_code
+          exec(code, run_globals)
+        File "/usr/local/lib/python3.6/dist-packages/pip/__main__.py", line 16, in <module>
+          from pip._internal import main as _main  # isort:skip # noqa
+        File "/usr/local/lib/python3.6/dist-packages/pip/_internal/__init__.py", line 40, in <module>
+          from pip._internal.cli.autocompletion import autocomplete
+        File "/usr/local/lib/python3.6/dist-packages/pip/_internal/cli/autocompletion.py", line 8, in <module>
+          from pip._internal.cli.main_parser import create_main_parser
+        File "/usr/local/lib/python3.6/dist-packages/pip/_internal/cli/main_parser.py", line 12, in <module>
+          from pip._internal.commands import (
+        File "/usr/local/lib/python3.6/dist-packages/pip/_internal/commands/__init__.py", line 6, in <module>
+          from pip._internal.commands.completion import CompletionCommand
+        File "/usr/local/lib/python3.6/dist-packages/pip/_internal/commands/completion.py", line 6, in <module>
+          from pip._internal.cli.base_command import Command
+        File "/usr/local/lib/python3.6/dist-packages/pip/_internal/cli/base_command.py", line 25, in <module>
+          from pip._internal.index import PackageFinder
+        File "/usr/local/lib/python3.6/dist-packages/pip/_internal/index.py", line 41, in <module>
+          from pip._internal.wheel import Wheel
+        File "/usr/local/lib/python3.6/dist-packages/pip/_internal/wheel.py", line 7, in <module>
+          import compileall
+        File "/usr/lib/python3.6/compileall.py", line 20, in <module>
+          from concurrent.futures import ProcessPoolExecutor
+        File "/usr/local/lib/python3.6/dist-packages/concurrent/futures/__init__.py", line 8, in <module>
+          from concurrent.futures._base import (FIRST_COMPLETED,
+        File "/usr/local/lib/python3.6/dist-packages/concurrent/futures/_base.py", line 381
+          raise exception_type, self._exception, self._traceback
+                              ^
+      SyntaxError: invalid syntax
+
+
+
