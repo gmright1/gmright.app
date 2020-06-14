@@ -1,0 +1,1 @@
+$ dig _github-challenge-ORGANIZATION.example.com +nostats +nocomments +nocmd TXT
